@@ -110,7 +110,7 @@ if($retypepassword === $userpassword)
     if($insertquery)
     {
         echo "<script>alert('Data inserted successfully.');
-        document.location.href='./index.php';
+        document.location.href='./data.php';
         </script>";
        
     }
